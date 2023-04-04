@@ -1,0 +1,16 @@
+#ACM
+[Abstract: health healthcare medicine] AND [[Abstract: "agent based"] OR [Abstract: "multi agent"] OR [Abstract: "agent oriented"] OR [Abstract: "agent technology"] OR [Abstract: "conversational agent"] OR [Abstract: "agent language"] OR [Abstract: "agent programming"]] AND [Publication Date: (01/01/2015 TO 06/30/2022)]
+
+web link:
+https://dl.acm.org/action/doSearch?fillQuickSearch=false&target=advanced&AfterMonth=1&AfterYear=2015&BeforeMonth=6&BeforeYear=2022&AllField=Abstract%3A(health+healthcare+medicine)+AND+Abstract%3A(%22agent+based%22+%22multi+agent%22+%22agent+oriented%22+%22agent+technology%22+%22conversational+agent%22+%22agent+language%22+%22agent+programming%22)&expand=all&startPage=0&pageSize=200
+
+#IEEE
+(((("Abstract":"agent based") OR("Abstract":"agent-based") OR ("Abstract":"multi agent")OR ("Abstract":"multi-agent") OR ("Abstract":"agent oriented") OR ("Abstract":"agent technology") OR ("Abstract":"conversational agent") OR ("Abstract":"agent language")) AND (("Abstract":healthcare) OR ("Abstract":health) OR ("Abstract":medicine)) ))
+
+Filters:
+Conferences, Journals, Early Access Articles, Books
+2015 - 2022
+
+#Scopus search
+(TITLE-ABS-KEY (medicine OR health OR healthcare) AND TITLE-ABS-KEY ( "agent based modeling" OR "agent based simulation" OR "agent based model" OR "multi agent" OR "agent technology" OR "conversational agent" OR "agent-oriented" OR "agent language" OR "agent programming" ) AND ( LIMIT-TO ( DOCTYPE , "ar" ) OR LIMIT-TO ( DOCTYPE , "cp" ) OR LIMIT-TO ( DOCTYPE , "ch" ) OR LIMIT-TO ( DOCTYPE , "bk" ) ) AND ( LIMIT-TO ( PUBYEAR , 2022 ) OR LIMIT-TO ( PUBYEAR , 2021 ) OR LIMIT-TO ( PUBYEAR , 2020 ) OR LIMIT-TO ( PUBYEAR , 2019 ) OR LIMIT-TO ( PUBYEAR , 2018 ) OR LIMIT-TO ( PUBYEAR , 2017 ) OR LIMIT-TO ( PUBYEAR , 2016 ) OR LIMIT-TO ( PUBYEAR , 2015)))
+
