@@ -6,5 +6,11 @@ Materials of the paper:
 Emilio Sulis, Stefano Mariani, Sara Montagna
 Computer Methods and Programs in Biomedicine
 
+Folders:
+- Database: the PostGres dataset (tables: DOCUMENT, VENUE, AUTHORS, DOC_AUT, VENUE_RANKING)
+- Network: graphs of couathors, citation network, term co-occurrence
+
+File: 
+- IEEE-ACM-Scopus_queries.txt : the queries used in the survey paper
 
 
